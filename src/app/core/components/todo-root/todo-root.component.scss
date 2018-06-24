@@ -1,0 +1,38 @@
+input,
+li,
+label,
+p,
+span {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+li {
+  padding: 0.5em 1em;
+}
+
+i {
+  font-size: 18px;
+  line-height: 1;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.line-trough {
+  text-decoration: line-through;
+}
+
+.icon-done {
+  color: #03a45e;
+}
+
+.icon-star,
+.icon-star-empty {
+  color: #fef102;
+}
+
+.icon-close {
+  color: #ee1c25;
+}
